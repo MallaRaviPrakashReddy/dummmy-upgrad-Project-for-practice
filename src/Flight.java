@@ -1,4 +1,5 @@
 public class Flight {
+
     private int flightNumber;
     private String airline;
     private int capacity;
@@ -41,4 +42,5 @@ public class Flight {
     public int getSeatsBooked() {
         return seatsBooked;
     }
+
 }
